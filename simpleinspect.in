@@ -1,0 +1,9 @@
+A
+B
+inspect 1
+play 1
+end
+inspect 2
+play 2
+end
+quit
