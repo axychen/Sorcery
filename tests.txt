@@ -4,10 +4,7 @@ testing
 graphics
 diffdeck
 diffdeck2
-diffdeckboth
-help
 invalidinput
-quit
 simpleplay
 simpleuse
 simpleinspect
@@ -15,9 +12,7 @@ simpleattack
 simpledraw
 simplediscard
 awin
-alose
 bwin
-blose
 nowin
 attackminion
 attackplayer
