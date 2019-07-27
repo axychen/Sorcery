@@ -18,6 +18,8 @@ Cardtype::Cardtype() {
 	activated.emplace_back(Activated{"Summon a 1/1 air elemental",1});
 	activated.emplace_back(Activated{"Summon up to three 1/1 air elementals",2});
 	activated.emplace_back(Activated{"NA",1000});
+	
+	triggered.emplace_back(Triggered{});
 
 	minions.emplace_back(Minion("Air Elemental",0,1,1,activated.at(3)));
 	minions.emplace_back(Minion("Earth Elemental",3,4,4,activated.at(3)));
