@@ -21,6 +21,9 @@ struct Cardtype {
 	std::vector<Minion> minions;
 	std::vector<Spell> spells;
 	std::vector<Activated> activated;
+	std::vector<Triggered> triggered;
+	std::vector<Enchantment> enchantments;
+	std::vector<Ritual> rituals;
 /*
 	std::vector<std::string> spells{"Banish", "Unsummon", "Recharge", "Disenchant",
 		"Raise Dead", "Blizzard"};
