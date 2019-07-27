@@ -1,2 +1,4 @@
--deck1 random.deck
+-deck1 abstruct.deck
+-deck2 abstruct.deck
+-testing
 -init simple.init
