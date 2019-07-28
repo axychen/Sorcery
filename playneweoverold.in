@@ -1,0 +1,39 @@
+A
+B
+discard 1
+discard 1
+discard 1
+discard 1
+discard 1
+draw
+draw
+draw
+draw
+draw
+play 1
+play 1
+discard 1
+discard 1
+discard 1
+draw
+draw
+draw
+draw
+draw
+discard 1
+discard 1
+discard 1
+discard 1
+draw
+draw
+draw
+draw
+play 1 1
+end
+play 4
+end
+end
+attack 1 1
+end
+play 1 1
+end
